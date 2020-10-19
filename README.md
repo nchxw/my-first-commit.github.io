@@ -13,4 +13,5 @@ In order to add your name and location that you are currently attending this wor
    </tr>
 2. After you have correctly filled in your information - paste the above code in index.html under the comment that says
 <--ADD your code here ---> 
+
 3. Commit and make a pull request 
