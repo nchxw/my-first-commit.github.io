@@ -15,5 +15,7 @@ In order to add your name and location that you are currently attending this wor
    ```  
 2. After you have correctly filled in your information - paste the above code in index.html under the comment that says
 <--ADD your code here ---> 
+<img width="839" alt="Screen Shot 2020-10-19 at 5 09 19 PM" src="https://user-images.githubusercontent.com/33015981/96513264-dae2ed80-122f-11eb-82b9-68559d1f59c1.png">
+
 
 3. Commit and make a pull request 
